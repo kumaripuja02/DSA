@@ -1,2 +1,2 @@
 # DSA
-Practise ques on DSA
+Practise question on DSA
