@@ -6,9 +6,9 @@ class Node
     int data;
     Node* next;
     //constructor
-    Node(int d)
+    Node(int data)
     {
-        this->data= d;
+        this->data= data;
         this->next=NULL;
     }
     //Destructor
