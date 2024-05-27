@@ -11,7 +11,7 @@ class Node
         this->data= data;
         this->next=NULL;
     }
-    //Destructor
+   
     ~Node()
     {
         int value= this->data;
